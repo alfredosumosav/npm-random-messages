@@ -1,0 +1,28 @@
+{
+  "name": "alfredosumosav-random-messages",
+  "version": "1.0.1",
+  "description": "Logs a random message",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Alfredo Sumosa <asumosa1993@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfredosumosav/npm-random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alfredosumosav/npm-random-messages/issues"
+  },
+  "homepage": "https://github.com/alfredosumosav/npm-random-messages#readme"
+}
